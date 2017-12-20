@@ -33,3 +33,11 @@ E-commerce project
 4.	Rvadapter
 
 5.	Zxing
+
+ 使用的设计模式:
+
+1.	模版模式
+
+2.	适配器模式
+
+3.	构建着模式
